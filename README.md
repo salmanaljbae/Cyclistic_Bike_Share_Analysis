@@ -55,17 +55,6 @@ Key steps included:
 
 ---
 
-بالتأكيد، سأقوم بإكمال ملف `README.md` بنفس الأسلوب الاحترافي الذي بدأت به، مع التركيز على مرحلتي التحليل (Analysis) والتصور (Visualizations) التي ذكرتها.
-
-سأضيف قسمين جديدين يوضحان النتائج الرئيسية التي توصلت إليها من تحليل البيانات، بالإضافة إلى قسم يعرض التصورات البيانية التي قمت بإنشائها.
-
------
-
-Here is the continuation of your `README.md` file:
-
-
----
-
 ## Analysis & Key Findings
 
 The analysis focused on answering the business questions by exploring key usage metrics for casual riders. The findings provide a clear roadmap for the marketing and business teams.
