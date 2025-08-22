@@ -76,12 +76,20 @@ The analysis focused on answering the business questions by exploring key usage 
 The insights gained from the SQL analysis were brought to life using Tableau, a powerful data visualization tool. A complete dashboard was created to present the findings in an accessible and impactful way.
 
 - **User Segmentation Chart:** A pie chart showing the proportion of annual members vs. casual riders, visually confirming the size of the target audience.
+![User Segmentation Chart](images/member%20vs%20casual.png)
+
 
 - **Ride Duration Comparison:** A combo chart (bar and line) illustrating the relationship between average ride duration and ride count for casual riders over the days of the week, clearly showing the weekend peak.
+![Peak Days of the Week](images/the%20peak%20days%20of%20the%20week.png)
+
 
 - **Monthly Trend Analysis:** A line chart depicting the average ride duration for casual riders over the course of the year, highlighting the summer spike and providing a basis for seasonal promotions.
+![Average Driving Time Per Month](images/Average%20driving%20time%20per%20month.png)
+
 
 - **Top Routes & Stations:** A horizontal bar chart identifying the top 10 most used routes by casual riders, which helps pinpoint key locations for on-the-ground marketing initiatives.
+![The Most Used Tracks](images/The%20Most%20Used%20tracks.png)
+
 
 ---
 
